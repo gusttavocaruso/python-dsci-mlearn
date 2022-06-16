@@ -17,3 +17,6 @@ print(df.fillna(df.var()))
 
 # estratégia: interpolar os valores anterior/posterior da lista
 print(df.fillna(df.interpolate()))
+
+# Localizando valores nulos
+print(df.isnull())
