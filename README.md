@@ -10,7 +10,8 @@ Amílcar Netto
 &
 Francisco Maciel
 
+#
+
+Arquivos em `./material_apoio` fornecido pelos autores para estudo através do site da editora: <a href="https://drive.google.com/file/d/1OdaoAwBZOjBdh4tVKkO7PzjR0CdiggpB/view"> Download aqui </a>
 
 </div>
-
-Material de apoio fornecido pelos autores para estudo através do site da editora: <a href="https://drive.google.com/file/d/1OdaoAwBZOjBdh4tVKkO7PzjR0CdiggpB/view"> Download aqui </a>
